@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
