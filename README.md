@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
