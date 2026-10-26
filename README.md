@@ -91,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
