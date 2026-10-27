@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
