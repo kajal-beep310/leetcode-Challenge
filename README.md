@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -109,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -157,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
