@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kajal-beep310/leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
